@@ -24,6 +24,7 @@ The retrieval pipeline was evaluated across multiple combinations of:
 | Embedding Model | BAAI/bge-small-en-v1.5 |
 | Query Augmentation | None |
 | Search Method | Hybrid Search |
+| Top_k Docs | 5 |
 | Reranker | ms-marco-MiniLM-L-12-v2 |
 
 #### Best Retrieval Metrics
