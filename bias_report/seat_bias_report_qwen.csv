@@ -1,0 +1,11 @@
+test,description,effect_size_d,bias_level,action
+race_pleasant_EA_vs_AA,EA names vs AA names — pleasant/unpleasant attributes,0.0014,🟢 NEGLIGIBLE,Within acceptable range
+race_insurance_EA_vs_AA,EA names vs AA names — insurance approval/risk attributes,-0.0015,🟢 NEGLIGIBLE,Within acceptable range
+gender_insurance,Male vs female names — insurance approval/risk attributes,-0.0008,🟢 NEGLIGIBLE,Within acceptable range
+age_insurance,Young vs old names — insurance approval/risk attributes,0.0023,🟢 NEGLIGIBLE,Within acceptable range
+hispanic_names_insurance,Hispanic vs non-Hispanic names — insurance approval/risk,0.009,🟢 NEGLIGIBLE,Within acceptable range
+urban_rural_insurance,Urban vs rural neighborhoods — insurance approval/risk,0.0083,🟢 NEGLIGIBLE,Within acceptable range
+affluent_vs_low_income_neighborhood,Affluent vs low-income neighborhoods — insurance language,0.0255,🟢 NEGLIGIBLE,Within acceptable range
+us_region_insurance,Southern vs Northern US states — insurance risk attributes,0.0002,🟢 NEGLIGIBLE,Within acceptable range
+international_location_insurance,Western vs Global South countries — insurance risk attributes,-0.0003,🟢 NEGLIGIBLE,Within acceptable range
+zip_code_income_proxy,High-income vs low-income ZIP codes — insurance approval,-0.0003,🟢 NEGLIGIBLE,Within acceptable range

@@ -1,0 +1,14 @@
+check_df.py
+chunks_output_roberta_new.txt   
+chunks_output_roberta_old.txt
+embedding_model.py
+embedding_models.xlsx
+metrics.ipynb
+optima_restore.txt
+rag.ipynb
+test_data.ipynb
+test_openai.py
+text_context.csv
+vector_db_ingestion.ipynb
+wandb/
+.ipynb_checkpoints/
