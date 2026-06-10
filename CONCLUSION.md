@@ -43,7 +43,7 @@ https://wandb.ai/debojyoti-temporary1-indian-statistical-institute/RAG_EVALS?nw=
 ---
 
 ### Generation Evaluation (GEN_EVALS)
-Based on context window, Hughes Hallucination Evaluation Model (HHEM) Leaderboard and Open source criteria These models have been filtered out.
+Based on Hughes Hallucination Evaluation Model (HHEM) Leaderboard and Open source criteria These models have been filtered out.
 
 | Rank | Model                                    | Hallucination Score (%) | Context Window |
 |------|------------------------------------------|-------------------------|----------------|
@@ -53,7 +53,7 @@ Based on context window, Hughes Hallucination Evaluation Model (HHEM) Leaderboar
 | 4    | google/gemma-3-12b-it                    | 4.4%                    | 128K tokens    |
 | 5    | mistralai/mistral-large-2411             | 4.5%                    | 128K tokens    |
 
-But due to computational constraint and ease of use we have taken two models from Groq(llama-3.1-8b-instant and llama-3.3-70b-versatile) and OpenAI(gpt-4o, gpt-4o-mini). These four language models were evaluated on a set of 10 question-answer pairs.
+Although ideally hallucination score must be less than 3% ideally, but due to computational constraint and ease of use we have taken two models from Groq(llama-3.1-8b-instant and llama-3.3-70b-versatile) and OpenAI(gpt-4o, gpt-4o-mini) also our context window desired length is 128K. These four language models were evaluated on a set of 10 question-answer pairs.
 Statistics of these models are mentioned below.
 
 | Rank | LLM                     | Context Window | Hughes Hallucination Score (%) | Open Source or Commercial |
